@@ -8,3 +8,10 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+h1{
+  text-align: center;
+  background-color: red;
+}
+p{
+  margin: 50px;
+}
